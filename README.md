@@ -43,7 +43,8 @@ This project demonstrates practical skills in:
 - [x] Deploy and configure pfSense Firewall base interfaces<img width="1905" height="1078" alt="Screenshot 2026-05-19 092149" src="https://github.com/user-attachments/assets/2b851a0a-5481-48c5-afcf-265262d401c3" />
 
 - [x] Install internal Ubuntu Client Workstation <img width="1917" height="1017" alt="uBuntu" src="https://github.com/user-attachments/assets/7bb81086-8ddf-41bd-bf68-0a55bf3d8040" />
-- [x] Troubleshoot and resolve Linux display server crash (Wayland fix)
+- [x] Troubleshoot and resolve Linux display server crash (Wayland fix)<img width="1693" height="918" alt="Screenshot 2026-05-18 134425" src="https://github.com/user-attachments/assets/b9b21577-81bb-4442-a257-0d60df1ac589" />
+
 - [ ] Verify automated IP leasing via pfSense DHCP server
 - [ ] Build stateful firewall access control rules to restrict internal outbound traffic
 - [ ] Perform network connectivity, traceroute, and packet inspection verification tests
